@@ -1,0 +1,52 @@
+{
+  "_from": "books",
+  "_id": "books@0.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-BkRvXaNVg//atmsp9ZCbli7wy6w=",
+  "_location": "/books",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "books",
+    "name": "books",
+    "escapedName": "books",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/books/-/books-0.0.0.tgz",
+  "_shasum": "06446f5da35583ffdab66b29f5909b962ef0cbac",
+  "_spec": "books",
+  "_where": "C:\\Users\\yiss0\\OneDrive\\Documents\\homeworks\\google-book-react",
+  "author": {
+    "name": "christian@decodehub.com"
+  },
+  "bugs": {
+    "url": "https://github.com/pinpickle/books/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Easily create documents using web technologies",
+  "homepage": "https://github.com/pinpickle/books#readme",
+  "keywords": [
+    "pdf",
+    "markdown",
+    "html"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "books",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinpickle/books.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.0"
+}
